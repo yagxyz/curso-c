@@ -1,0 +1,11 @@
+
+1 Joaquim 06751538098 2068694522 m 23 60 1.75 3.5 joaquim@gmail.com
+
+2 Pedro 06751584012 3368667578 m 33 70 1.90 2.1 pedro@gmail.com
+
+3 Raul 06751584012 906810267 m 33 70 1.90 6.4 raul@gmail.com
+
+4 Joao 06751584012 906810267 m 33 70 1.90 6.4 joao@gmail.com
+
+
+IMC = P / (H*H);

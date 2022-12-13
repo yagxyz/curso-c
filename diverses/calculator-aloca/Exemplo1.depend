@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1528656992 source:d:\mega\mestrado\1-semestre\docência orientada\exemplos\1\exemplo1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1529503881 source:d:\mega\mestrado\1-semestre\docência orientada\programas c\alocação dinâmica\exercicio1\main.c
+	<stdio.h>
+	<stdlib.h>
+

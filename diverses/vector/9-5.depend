@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1525877228 source:h:\9-5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+
+1525877470 source:g:\9-5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+
+1525923081 source:c:\users\yunio\onedrive\Área de trabalho\codecs\prencher vetor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

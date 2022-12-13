@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1527082848 source:c:\users\yunio\onedrive\Área de trabalho\codecs\monte carlos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

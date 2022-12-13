@@ -1,0 +1,19 @@
+RECURSIVIDADE
+
+Chamamos de recursividade ou recursão quando uma função chama a si mesma.
+
+Em uma função recursiva, a cada chamada é criada na memória uma nova ocorrência da função com comandos e variáveis “isolados” das ocorrências anteriores.
+
+A função é executada até que todas as ocorrências tenham sido resolvidas.
+
+Porém um problema que surge ao usar a recursividade é como fazê-la parar. Caso o programador não tenha cuidado é fácil cair num loop infinito recursivo o qual pode inclusive esgotar a memória…
+
+Toda recursividade é composta por um caso base e pelas chamadas recursivas,.
+
+Caso base: é o caso mais simples. É usada uma condição em que se resolve o problema com facilidade.
+
+Chamadas Recursivas: procuram simplificar o problema de tal forma que convergem para o caso base.
+
+Vantagens da recursividade
+
+Torna a escrita do código mais simples e elegante, tornando-o fácil de entender e de manter.

@@ -1,0 +1,1 @@
+Coloca-se diante da variavel para entregar o endereço dela a onde o ponterio deve apontar

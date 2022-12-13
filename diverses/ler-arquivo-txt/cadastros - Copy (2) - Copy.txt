@@ -1,0 +1,16 @@
+
+1 Joaquim 06751538098 2068694522 m 23 60 1.75 3.5 joaquim@gmail.com
+
+2 Pedro 49571584012 3368667578 f 87 70 1.90 2.1 pedro@gmail.com
+
+3 Raul 17345840053 9068410267 e 83 39 1.78 6.4 raul@gmail.com
+
+3 Marcos 17345840053 9068410267 e 83 39 1.78 6.4 marcos@gmail.com
+
+4 Antonio 17345840053 9068410267 e 83 39 1.78 6.4 antonio@gmail.com
+
+5 Rafael 17345840053 9068410267 e 83 39 1.78 6.4 rafael@gmail.com
+
+6 Maria 17345840053 9068410267 e 83 39 1.78 6.4 maria@gmail.com
+
+7 Carmem 17345840053 9068410267 e 83 39 1.78 6.4 carmem@gmail.com

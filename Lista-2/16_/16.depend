@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1526952302 source:c:\users\yunio\onedrive\Área de trabalho\codecs\lista 2\16'\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

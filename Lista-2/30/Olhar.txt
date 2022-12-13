@@ -1,0 +1,27 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int ga(int pt, int n, int r)
+{
+    int i, f, m=1;
+    for (i=0; i<n-1; i++){
+        m = m*r;
+    }
+    f = pt*m;
+    return f;
+}
+
+int main()
+{
+    int pt, n, r, f;
+    printf("Primeiro termo: \n");
+    scanf("%d", &pt);
+    printf("Número de termos: \n");
+    scanf("%d", &n);
+    printf("Razão: \n");
+    scanf("%d", &r);
+    f = ga(pt, n, r);
+    printf("O %dº termo é %d.", n, f);
+    return 0;
+}
+

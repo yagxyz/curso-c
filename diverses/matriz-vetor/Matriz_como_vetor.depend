@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1525952728 source:h:\matriz_como_vetor\main.c
+	<stdio.h>
+	<stdlib.h>
+

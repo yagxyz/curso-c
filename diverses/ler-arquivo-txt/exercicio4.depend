@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1529519434 source:d:\mega\mestrado\1-semestre\docência orientada\programas c\struct\exercicio4\exercicio4\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1529519496 source:d:\mega\mestrado\1-semestre\docência orientada\programas c\struct\leitura arquivo\main.c
+	<stdio.h>
+	<stdlib.h>
+
